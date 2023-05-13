@@ -1,11 +1,6 @@
 {
   "pensamentos": [
     {
-      "id": 1,
-      "conteudo": "Que bom que voce veio.",
-      "modelo": "modelo1"
-    },
-    {
       "id": 2,
       "conteudo": "Estudando Angular no Alura para me tornar um FullStack",
       "modelo": "modelo2"
@@ -62,16 +57,10 @@
       "id": 11
     },
     {
-      "conteudo": "Se Deus quiser vou me tornar um Desenvolvedor FullStack reconhecido",
+      "conteudo": "Já estou compreendendo os conceito do framework AngularJS",
       "autoria": "Maciel Viana",
-      "modelo": "modelo2",
+      "modelo": "modelo3",
       "id": 12
-    },
-    {
-      "conteudo": "Angular não é fácil aprender mas vou conseguir se Deus quiser.",
-      "autoria": "Maciel viana",
-      "modelo": "modelo1",
-      "id": 13
     }
   ]
 }
