@@ -1,11 +1,6 @@
 {
   "pensamentos": [
     {
-      "id": 1,
-      "conteudo": "Que bom que voce veio.",
-      "modelo": "modelo1"
-    },
-    {
       "id": 2,
       "conteudo": "Estudando Angular no Alura para me tornar um FullStack",
       "modelo": "modelo2"
