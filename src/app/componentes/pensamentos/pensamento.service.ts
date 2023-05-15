@@ -17,10 +17,6 @@ export class PensamentoService {
       .set('_limit', intensPorPagina);
 
     return this.http.get<Pensamento[]>(this.API, { params });
-
-    // return this.http.get<Pensamento[]>(
-    //   `${this.API}?_page=${pagina}&_limit=${intensPorPagina}`
-    // );
   }
 
   buscarPorId(id: number) {
