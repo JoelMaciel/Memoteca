@@ -42,6 +42,16 @@
   padding-right: 15px;
 }
 
+.botoes {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+.botoes button {
+  margin-left: 10px;
+  margin-right: 2px;
+}
+
 input::placeholder {
   color: #c4c4c4;
   font-family: "Inter";
