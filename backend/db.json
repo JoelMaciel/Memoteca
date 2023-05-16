@@ -4,7 +4,7 @@
       "id": 2,
       "conteudo": "Estudando Angular no Alura para me tornar um FullStack",
       "modelo": "modelo2",
-      "favorito": true
+      "favorito": false
     },
     {
       "id": 3,
@@ -35,7 +35,7 @@
       "conteudo": "Se Deus quiser vou me tornar um Desenvolvedor FullStack reconhecido",
       "autoria": "Maciel Viana",
       "modelo": "modelo2",
-      "favorito": true,
+      "favorito": false,
       "id": 7
     },
     {
